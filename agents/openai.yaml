@@ -1,0 +1,4 @@
+interface:
+  display_name: "Salesforce Presentation Site by Megan McCullough"
+  short_description: "Build branded interactive presentation websites"
+  default_prompt: "Use $salesforce-presentation-site to build a presentation website in the style of my Upmarket site."
